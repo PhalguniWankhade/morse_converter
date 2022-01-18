@@ -1,0 +1,4 @@
+Validate the user input
+Decode
+Write unit test cases
+
